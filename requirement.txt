@@ -1,0 +1,4 @@
+easygui
+pandas
+requests
+xlrd
